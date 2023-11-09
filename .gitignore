@@ -1,0 +1,15 @@
+# Ignore virtual environment directories
+venv/
+env/
+virtualenv/
+.venv/
+myenv/
+
+__pycache__/
+backups
+icons
+
+!/build/*/icons
+*.py
+test.py
+requirements.txt
