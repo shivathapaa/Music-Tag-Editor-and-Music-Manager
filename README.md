@@ -8,7 +8,7 @@
 
 The **Music Metadata Editor and Music Manager** is a Python-based desktop application that allows users to view and edit metadata information of music files in their collection. It provides a responsive user interface with a music file list, and offers a tag editor for modifying metadata. It also has three additional features with a user-friendly interface for *renaming music files*, *filtering files* based on extensions, and *finding duplicates* based on different property.
 
-This application consists of three main components:
+This application consists of four different features:
 1. **Music Metadata Editor:**
     - Organize your music files by updating their metadata.
     - Supports various music file formats, such as MP3, FLAC, WAV, AIF, and more.
